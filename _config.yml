@@ -1,5 +1,6 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "0.0.0.0" # the base hostname & protocol for your site
 
 # Site settings
 title: Awesome Title
